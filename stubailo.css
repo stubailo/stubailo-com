@@ -1,0 +1,7 @@
+/* CSS declarations go here */
+
+.content {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
