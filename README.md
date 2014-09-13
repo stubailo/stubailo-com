@@ -1,3 +1,5 @@
+Launch with [`meteor`](http://meteor.com).
+
 {{#template name="content"}}
 
 Sashko Stubailo
