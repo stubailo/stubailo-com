@@ -1,7 +1,7 @@
 {{#template name="content"}}
 
 Sashko Stubailo
-==============g
+==============
 
 Core Developer at [Meteor Development Group](http://meteor.com) in San Francisco, CA since January 2014. Graduated MIT class of 2014.
 
