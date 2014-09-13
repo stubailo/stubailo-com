@@ -16,7 +16,7 @@ Core Developer at [Meteor Development Group](http://meteor.com) in San Francisco
 
 ### Meteor Packages
 
-I love developing cool packages for Meteor in my spare time. The most fun ones are crazy integrations of file types or APIs, and many are in progress. Links are to GitHub.
+I love developing packages for Meteor in my spare time. The most fun ones are crazy integrations of file types or APIs, and many are in progress. Links are to GitHub.
 
 - [Imgur upload](https://github.com/stubailo/meteor-imgur)
 - [Camera for mobile and desktop](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:camera)
