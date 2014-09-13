@@ -5,7 +5,7 @@ Sashko Stubailo
 
 Core Developer at [Meteor Development Group](http://meteor.com) in San Francisco, CA since January 2014. Graduated MIT class of 2014.
 
-![Map of Meteor Development Group](http://maps.googleapis.com/maps/api/staticmap?center=140%2010th%20street,san%20francisco&zoom=15&size=500x100&markers=140%2010th%20street,san%20francisco&scale=2)
+[![Map of Meteor Development Group](http://maps.googleapis.com/maps/api/staticmap?center=140%2010th%20street,san%20francisco&zoom=15&size=500x150&markers=140%2010th%20street,san%20francisco&scale=2)](https://www.google.com/maps/place/Meteor+Development+Group/@37.77466,-122.415424,17z/data=!3m1!4b1!4m2!3m1!1s0x8085809d09beac4f:0x5c17d9aefce604ba)
 
 ### Social Media
 
