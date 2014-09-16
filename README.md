@@ -24,6 +24,7 @@ I love developing packages for Meteor in my spare time. The most fun ones are cr
 - [Camera for mobile and desktop](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:camera)
 - [Geolocation for mobile and desktop](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:geolocation)
 - [Defining templates with Markdown](https://github.com/stubailo/meteor-markdown-templating) (used to build this website)
+- [KaTeX, a math rendering library from Khan Academy](https://github.com/stubailo/meteor-katex)
 
 ### Other Projects
 
