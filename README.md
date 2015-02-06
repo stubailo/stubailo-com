@@ -15,6 +15,7 @@ Core Developer at [Meteor Development Group](http://meteor.com) in San Francisco
 - [GitHub](https://github.com/stubailo)
 - [SoundCloud](https://soundcloud.com/dj-mashko)
 - [LinkedIn](https://www.linkedin.com/pub/oleksandr-stubailo/14/798/13a)
+- [Medium](https://medium.com/@stubailo)
 
 ### Meteor Packages
 
