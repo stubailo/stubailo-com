@@ -37,7 +37,7 @@ Links are to a live website if available, otherwise to GitHub.
 
 ### Contact Me
 
-Email me at [sashko@stubailo.com](mailto:sashko@meteor.com).
+Email me at [sashko@stubailo.com](mailto:sashko@stubailo.com).
 
 
 {{/template}}
