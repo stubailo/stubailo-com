@@ -19,9 +19,10 @@ Core Developer at [Meteor Development Group](http://meteor.com) in San Francisco
 
 ### Articles and educational materials
 
-- [Data flow from the database to the UI: Three layers of Meteor](https://medium.com/@stubailo/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3)
 - [Optimistic UI with Meteor](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
-- [The Meteor tutorial](https://www.meteor.com/try)
+- [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
+- [Data flow from the database to the UI: Three layers of Meteor](https://medium.com/@stubailo/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3)
+- [The Meteor tutorials (Blaze and React)](https://www.meteor.com/tutorials)
 - [Meteor basic docs](http://docs.meteor.com/#/basic/)
 
 ### Meteor packages
@@ -29,6 +30,7 @@ Core Developer at [Meteor Development Group](http://meteor.com) in San Francisco
 I love developing packages for Meteor in my spare time. Links are to GitHub.
 
 - [REST API for Meteor](https://github.com/stubailo/meteor-rest)
+- [highlight.js in markdown](https://github.com/stubailo/meteor-highlight.js)
 - [Imgur upload](https://github.com/stubailo/meteor-imgur)
 - [Camera for mobile and desktop](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:camera)
 - [Geolocation for mobile and desktop](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:geolocation)
