@@ -1,5 +1,7 @@
 Launch with [`meteor`](http://meteor.com).
 
+Notice that the website content is also the GitHub README, using [simple:markdown-templating](https://atmospherejs.com/simple/markdown-templating).
+
 {{#template name="content"}}
 
 Sashko Stubailo
